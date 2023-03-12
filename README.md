@@ -8,8 +8,7 @@
     <img src="https://logos-download.com/wp-content/uploads/2019/01/Stack_Overflow_Logo.png" height = "40px" alt="StackOverflow Badge"/>
   </a>
 </div>
-<h3 align="center">And a huge fan of RUBY</h3>
-<div align="center"> <img src="https://www.ruby-lang.org/images/download-ruby-arrow@2x.png" height"16px" align="center" alt="ruby"/></div>
+<h3 align="center">And a fan of RUBY and coffeescript</h3>
 <!---
 makschernetskyi/makschernetskyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
