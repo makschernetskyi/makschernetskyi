@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="headerPicture" align="center">
-  <img src="https://github.com/makschernetskyi/makschernetskyi/blob/main/typing.png" height="200px" alt="headerPicture"/>
+  <img src="https://github.com/makschernetskyi/makschernetskyi/commit/7f33c6cf1f5bd1b4ac0ee93d965b0006b1481beb" height="200px" alt="headerPicture"/>
  </div>
 <h2 align="center">I'm Max, JS, Python, C++ developer </h2><br/>
 <div id="badges", align="center">
