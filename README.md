@@ -10,6 +10,9 @@
   <a href="https://stackoverflow.com/users/15585984/allure">
     <img src="https://logos-download.com/wp-content/uploads/2019/01/Stack_Overflow_Logo.png" height = "40px" alt="StackOverflow Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/maksym-czarniecki-87484b269/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height = "40px" alt="LinkedIn Badge"/>
+  </a>
 </div>
 <h3 align="center">Fan of ruby and coffeescript</h3>
 
