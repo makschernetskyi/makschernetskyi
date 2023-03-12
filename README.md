@@ -11,7 +11,7 @@
     <img src="https://logos-download.com/wp-content/uploads/2019/01/Stack_Overflow_Logo.png" height = "40px" alt="StackOverflow Badge"/>
   </a>
 </div>
-<h3 align="center">And a fan of ruby and coffeescript</h3>
+<h3 align="center">Fan of ruby and coffeescript</h3>
 
 <!---
 makschernetskyi/makschernetskyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
