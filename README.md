@@ -4,7 +4,7 @@
 </h1>
 <div id="badges", align="center">
   <a href="https://stackoverflow.com/users/15585984/allure">
-    <img src="https://logos-download.com/wp-content/uploads/2019/01/Stack_Overflow_Logo.png" height = "50px" alt="StackOverflow Badge"/>
+    <img src="https://logos-download.com/wp-content/uploads/2019/01/Stack_Overflow_Logo.png" height = "40px" alt="StackOverflow Badge"/>
   </a>
  </div>
 - I'm Max, JS, Python, C++ developer
