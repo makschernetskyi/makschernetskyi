@@ -1,11 +1,10 @@
 <div>
-  <h1 align="center">
-    👾🌌Hello there!🌌☄️
-  <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-  </h1>
   <div id="headerPicture" align="center">
     <img src="https://github.com/makschernetskyi/makschernetskyi/blob/main/typing_v1_0.gif" max-height="180px" alt="headerPicture"/>
    </div>
+  <h1 align="center">
+    I'm max
+  </h1>
   <h2 align="center">I'm JS, Python, C++ developer </h2><br/>
   <div id="badges", align="center">
     <a href="https://stackoverflow.com/users/15585984/allure">
