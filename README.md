@@ -1,11 +1,8 @@
 <div>
   <div id="headerPicture" align="center">
     <img src="https://github.com/makschernetskyi/makschernetskyi/blob/main/typing_v1_0.gif" max-height="180px" alt="headerPicture"/>
-   </div>
-  <h1 align="center">
-    I'm max
-  </h1>
-  <h2 align="center">I'm JS, Python, C++ developer </h2><br/>
+  </div>
+  <h1 align="center">I'm JS, Python, C++ developer </h2><br/>
   <div id="badges", align="center">
     <a href="https://stackoverflow.com/users/15585984/allure">
       <img src="https://logos-download.com/wp-content/uploads/2019/01/Stack_Overflow_Logo.png" height = "40px" width="160" alt="StackOverflow Badge"/>
