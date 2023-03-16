@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hello there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  👾🌌Hello there!🌌☄️
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 </h1>
 <div id="headerPicture" align="center">
   <img src="https://github.com/makschernetskyi/makschernetskyi/blob/main/typing_w_background_3.png" max-height="180px" alt="headerPicture"/>
