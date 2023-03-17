@@ -1,8 +1,8 @@
 <div>
   <div id="headerPicture" align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="ttps://github.com/makschernetskyi/makschernetskyi/blob/main/hello_there_compressed.gif">
-      <img src="ttps://github.com/makschernetskyi/makschernetskyi/blob/main/hello_there_compressed.gif">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/makschernetskyi/makschernetskyi/blob/main/hello_there_compressed.gif">
+      <img src="https://github.com/makschernetskyi/makschernetskyi/blob/main/hello_there_compressed.gif">
     </picture>
     
   </div>
