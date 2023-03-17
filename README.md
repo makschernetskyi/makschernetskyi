@@ -1,7 +1,7 @@
 <div>
   <div id="headerPicture" align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" background="whitesmoke" src="https://github.com/makschernetskyi/makschernetskyi/blob/main/hello_there_compressed.gif" max-height="180px" alt="headerPicture"/>
+      <source media="(prefers-color-scheme: dark)" background="whitesmoke" srcset="https://github.com/makschernetskyi/makschernetskyi/blob/main/hello_there_compressed.gif" max-height="180px" alt="headerPicture"/>
       <img src="https://github.com/makschernetskyi/makschernetskyi/blob/main/hello_there_compressed.gif" max-height="180px" alt="headerPicture"/>
     
     </picture>
