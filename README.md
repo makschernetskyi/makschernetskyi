@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/maksym-czarniecki-87484b269/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height = "40px" width="160" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://ru.hinative.com/profiles/6881491">
+    <a href="https://hinative.com/profiles/6881491">
       <img src="https://github.com/makschernetskyi/makschernetskyi/blob/main/HiNativeLogo_2.png" height = "40px" width="160" alt="Hinative Badge"/>
     </a>
   </div>
