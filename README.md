@@ -1,11 +1,8 @@
 <div>
   <div id="headerPicture" align="center">
+    
     <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png" style="background: white">
- <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" background="white" srcset="https://github.com/makschernetskyi/makschernetskyi/blob/main/hello_there_compressed.gif" max-height="180px" alt="headerPicture"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/makschernetskyi/makschernetskyi/blob/main/hello_there_compressed.gif" max-height="180px" alt="headerPicture"/>
       <img src="https://github.com/makschernetskyi/makschernetskyi/blob/main/hello_there_compressed.gif" max-height="180px" alt="headerPicture"/>
     
     </picture>
