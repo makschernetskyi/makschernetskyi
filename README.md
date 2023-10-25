@@ -6,7 +6,7 @@
     </picture>
     
   </div>
-  <h1 align="center">I'm Max - JS, Python, C++ developer </h2><br/>
+  <h1 align="center">I'm Max 💻 JS, Python and C++ developer </h2><br/>
   <div id="badges", align="center">
     <a href="https://stackoverflow.com/users/15585984/allure">
       <img src="https://logos-download.com/wp-content/uploads/2019/01/Stack_Overflow_Logo.png" height = "40px" width="160" alt="StackOverflow Badge"/>
@@ -18,7 +18,7 @@
       <img src="https://github.com/makschernetskyi/makschernetskyi/blob/main/HiNativeLogo_2.png" height = "40px" width="160" alt="Hinative Badge"/>
     </a>
   </div>
-  <h3 align="center">Fan of ruby and coffeescript</h3>
+  <h3 align="center">Fan of ⚛ and ☕script</h3>
 </div>
 
 <!---
