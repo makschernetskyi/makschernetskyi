@@ -7,6 +7,7 @@
     
   </div>
   <h1 align="center">I'm Max 💻 JS, Python and C++ developer </h2><br/>
+  <h2 align="center">most of my projects are on gitlab though :)</h2>
   <div id="badges", align="center">
     <a href="https://stackoverflow.com/users/15585984/allure">
       <img src="https://logos-download.com/wp-content/uploads/2019/01/Stack_Overflow_Logo.png" height = "40px" width="160" alt="StackOverflow Badge"/>
